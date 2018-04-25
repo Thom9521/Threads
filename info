@@ -1,0 +1,4 @@
+De 3 ting man skal gøre når man arbejder mede tråde:
+Implementere runnable på den object class som skal på en tråd
+Sætte objektet på en tråd
+Bruge start() metoden
